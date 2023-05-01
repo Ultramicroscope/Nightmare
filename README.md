@@ -1,0 +1,1 @@
+<p> The player is surrounded by a black sphere that has a radius of their reach distance.
