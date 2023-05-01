@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nightmare",
+  "name": "Nightmare",
+  "description": "Blind beyond reach.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["honeyfuggle"],
+  "credits": "credit to kyle for the idea",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
